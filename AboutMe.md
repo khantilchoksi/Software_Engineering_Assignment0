@@ -10,6 +10,7 @@
 > I am from India and I have completed my undergrad from the Maharaja Sayajirao University of Baroda.
 
 
-
+*This is how I look like: *
+![img](/MyPicture.jpg)
 
 
