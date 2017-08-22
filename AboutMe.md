@@ -20,15 +20,17 @@
 * MySQL
 
 
-## My Schedule : 
+## My Schedule :  
+
+
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday | Friday | Saturday | Sunday |  
-| ------------- |:-------------:|:-------------:|:-------------:| ------------- |:-------------:|:-------------:|:-------------:|  
-| 8 - 10 AM | Lecture | - | Lecture |  - | Work | - | - |  
-| 10 - 12 PM | - | Lecture | - |  Lecture | - | - | - |  
-| 12 - 2 PM | Work | - | Work |  - | - | - | - |  
-| 2 - 4 PM | - | Lecture | - |  Lecture | - | - | - |  
-| 4 - 6 PM | Work | - | Work |  - | - | - | - | 
-| 6 - 8 PM | Table Tennis | - | Table Tennis |  - | - | - | - |  
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|  
+| 8  10 AM | Lecture |  | Lecture |  | Work |  |  |  
+| 10  12 PM |  | Lecture | - |  Lecture |  |  |  |  
+| 12  2 PM | Work | - | Work |  - | - | - |  |  
+| 2  4 PM |  | Lecture | - |  Lecture |  |  |  |  
+| 4  6 PM | Work |  | Work |   |  |  |  | 
+| 6  8 PM | Table Tennis |  | Table Tennis |   |  |  |  |  
 
 
 
