@@ -12,7 +12,7 @@
 
 
 ### This is how I look like:
-![img](/MyPicture.png)
+![img](https://github.ncsu.edu/khchoksi/HW0/blob/master/MyPicture.png?raw=true)
 
 
 ### My Skills are:
