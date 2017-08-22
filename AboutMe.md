@@ -11,6 +11,8 @@
 
 
 *This is how I look like: *
-![img](/MyPicture.jpg)
+![img](/MyPicture.png)
+
+
 
 
