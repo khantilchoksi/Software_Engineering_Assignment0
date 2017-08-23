@@ -3,13 +3,19 @@ Home work assignment 0 for the Software Engineering Course 510.
 
 ## My name is Khantil Choksi.
 
-I am in the second paragraph.
-I am in the same second paragraph.  
-I am in the same second paragraph with hard break.
+**1. Complete moodle and slack profile:**
+* Moodle Profile: ![img](/screenshots/MoodleProfile.png)  
+* Slack Profile: ![img](/screenshots/SlackProfile.png)
+
+**2. Completed Git Tutorial:**
+![img](/screenshots/CompletedGitTutorial.png)
+
+**3. Hook Script:**
 
 
-*Italic*
-**bold**
-`monospace`
+**4. Screencast:**
 
-![img name] (figures/screenshot.png) 
+![My Screencast](/HooksScreencastCompressed.mov)
+or 
+[![ScreenCast](https://img.youtube.com/vi/kUO9cr0g3kE/0.jpg)](https://www.youtube.com/watch?v=kUO9cr0g3kE)
+
