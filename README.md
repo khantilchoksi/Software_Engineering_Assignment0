@@ -10,12 +10,15 @@ Home work assignment 0 for the Software Engineering Course 510.
 **2. Completed Git Tutorial:**
 ![img](/screenshots/CompletedGitTutorial.png)
 
-**3. Hook Script:**
+**3. Hook Script:**  
+`#!/bin/bash`  
+`open https://android.com`
 
 
 **4. Screencast:**
 
 ![My Screencast](/HooksScreencastCompressed.mov)
-or 
+or   
+
 [![ScreenCast](https://img.youtube.com/vi/kUO9cr0g3kE/0.jpg)](https://www.youtube.com/watch?v=kUO9cr0g3kE)
 
