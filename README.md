@@ -1,7 +1,11 @@
 # HW0
 Home work assignment 0 for the Software Engineering Course 510.
 
-## My name is Khantil Choksi.
+
+> ## My name is Khantil Choksi. 
+> ## My Unity ID is khchoksi.  
+> ## My student id is 200200287.
+
 
 **1. Complete moodle and slack profile:**
 * Moodle Profile: ![img](/screenshots/MoodleProfile.png)  
